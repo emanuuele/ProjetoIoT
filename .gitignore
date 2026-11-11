@@ -1,3 +1,5 @@
 venv/*
 idle-2021/*
 tagged-2021/*
+dados_unsw_nb15/*
+!dados_unsw_nb15/.gitkeep
